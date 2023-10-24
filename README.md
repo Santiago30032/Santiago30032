@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Santiago Diaz</h1>
-<h3 align="center">A passionate frontend developer from Colombia</h3>
+
 
 - 🔭 I’m currently working on **B1G Digital**
 
